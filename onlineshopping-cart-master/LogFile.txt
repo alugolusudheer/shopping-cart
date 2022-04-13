@@ -1,0 +1,21 @@
+%PARSER_ERROR[d] - Starting ShoppingCartApplication on TPLLAP2009056 with PID 25040 (C:\Users\Tejora\Desktop\sandeep tasks\onlineshopping-cart-master\target\classes started by Tejora in C:\Users\Tejora\Desktop\sandeep tasks\onlineshopping-cart-master)
+%PARSER_ERROR[d] - No active profile set, falling back to default profiles: default
+%PARSER_ERROR[d] - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+%PARSER_ERROR[d] - Finished Spring Data repository scanning in 89ms. Found 6 JPA repository interfaces.
+%PARSER_ERROR[d] - Tomcat initialized with port(s): 9099 (http)
+%PARSER_ERROR[d] - Starting service [Tomcat]
+%PARSER_ERROR[d] - Starting Servlet engine: [Apache Tomcat/9.0.38]
+%PARSER_ERROR[d] - Initializing Spring embedded WebApplicationContext
+%PARSER_ERROR[d] - Root WebApplicationContext: initialization completed in 1610 ms
+%PARSER_ERROR[d] - HHH000204: Processing PersistenceUnitInfo [name: default]
+%PARSER_ERROR[d] - HHH000412: Hibernate ORM core version 5.4.20.Final
+%PARSER_ERROR[d] - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+%PARSER_ERROR[d] - HikariPool-1 - Starting...
+%PARSER_ERROR[d] - HikariPool-1 - Start completed.
+%PARSER_ERROR[d] - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+%PARSER_ERROR[d] - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+%PARSER_ERROR[d] - Initialized JPA EntityManagerFactory for persistence unit 'default'
+%PARSER_ERROR[d] - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+%PARSER_ERROR[d] - Initializing ExecutorService 'applicationTaskExecutor'
+%PARSER_ERROR[d] - Tomcat started on port(s): 9099 (http) with context path ''
+%PARSER_ERROR[d] - Started ShoppingCartApplication in 10.954 seconds (JVM running for 11.409)
